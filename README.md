@@ -1,12 +1,16 @@
 # TicTacToeGame
 #A small try towards game programming with the help of youtube(refernce clever-programmer tictactoe with python) .
-board=["-", "-","-",
-       "-", "-","-",
-       "-", "-","-"]
+
+
 
 game_still_going =True
 winner=None
 current_player="X"
+
+board=["-", "-","-",
+       "-", "-","-",
+       "-", "-","-"]
+
 
 def play_game():
     display_board()
