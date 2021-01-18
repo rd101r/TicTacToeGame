@@ -1,5 +1,5 @@
 # TicTacToeGame
-A small try towards game programming with the help of youtube.
+#A small try towards game programming with the help of youtube(refernce clever-programmer tictactoe with python) .
 board=["-", "-","-",
        "-", "-","-",
        "-", "-","-"]
