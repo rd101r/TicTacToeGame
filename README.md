@@ -1,5 +1,5 @@
 # TicTacToeGame
-#A small try towards game programming with the help of youtube(refernce clever-programmer tictactoe with python) .
+#A small try towards game programming with the help of youtube(reference clever-programmer tictactoe with python) .
 
 
 
